@@ -1,3 +1,5 @@
+WARNING: This repo is unmaintained.  If you are interested in pure-python differential expression analysis, please look at PyDESeq2_ .
+
 |PyPI| |Docs|
 
 .. |PyPI| image:: https://img.shields.io/pypi/v/diffxpy.svg
@@ -20,3 +22,4 @@ Refer to the documentation_ and the tutorials_ for details of these modules.
 .. _scanpy: https://github.com/theislab/scanpy
 .. _documentation: https://diffxpy.rtfd.io/en/latest
 .. _tutorials: https://diffxpy.rtfd.io/en/latest/tutorials.html
+.. _PyDESeq2: https://pydeseq2.readthedocs.io/en/stable/
