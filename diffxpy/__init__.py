@@ -12,3 +12,6 @@ __author__ = ', '.join([
 __email__ = ', '.join([
     'david.fischer@helmholtz-muenchen.de'
 ])
+
+from . import _version
+__version__ = _version.get_versions()['version']
